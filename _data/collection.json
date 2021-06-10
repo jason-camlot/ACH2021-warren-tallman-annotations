@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "ACH-2021-Warren-Tallman-Annotations" ] },
+    "summary": { "en": [ "Annotations on Warren Tallman Retirement Speech Recording held at UBCO for demonstration of analysis of audiotextual microgenres in archival documentary recordings." ] },
+    "items": [
+    ]
+}
