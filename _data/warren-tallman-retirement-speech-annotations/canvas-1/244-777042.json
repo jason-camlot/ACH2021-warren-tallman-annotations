@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://jason-camlot.github.io/ACH2021-warren-tallman-annotations/warren-tallman-retirement-speech-annotations/canvas-1/canvas/244-777042.json",
+  "type": "AnnotationPage",
+  "label": "244.777042",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jason-camlot.github.io/ACH2021-warren-tallman-annotations/warren-tallman-retirement-speech-annotations/canvas-1/canvas/244-777042-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "244.777042",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jason-camlot.github.io/ACH2021-warren-tallman-annotations/warren-tallman-retirement-speech-annotations/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "244.777042"
+        }
+      }
+    }
+  ]
+}
